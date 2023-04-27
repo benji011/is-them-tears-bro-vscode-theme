@@ -1,6 +1,8 @@
 # Is them tears bro!?
 Is them tears bro!? is a visually stunning and unique theme for Visual Studio Code that blends shades of blue and purple to create a calming and immersive coding experience.
 
+<img src="./screenshot.png"/>
+
 ### Features
 * A soothing blend of blue and purple hues that is easy on the eyes.
 * Careful selection of syntax colors to make your code stand out.
