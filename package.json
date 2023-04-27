@@ -1,0 +1,22 @@
+{
+    "name": "isthemtearsbro",
+    "displayName": "Is them tears bro!?",
+    "description": "Is them tears bro!? ",
+    "version": "0.0.3",
+    "publisher": "benji011",
+    "engines": {
+            "vscode": "^1.0.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+                {
+                    "label": "isthemtearsbro",
+                    "uiTheme": "vs-dark",
+                    "path": "./themes/is-them-tears-bro-color-theme.json"
+                }
+        ]
+    }
+}
