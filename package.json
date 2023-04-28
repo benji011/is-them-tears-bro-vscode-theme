@@ -4,6 +4,11 @@
     "description": "Is them tears bro!? ",
     "version": "0.0.4",
     "publisher": "benji011",
+    "icon": "icon.png",
+    "repository": {
+	"type": "git",
+	"url": "https://github.com/benji011/is-them-tears-bro-vscode-theme"
+    },
     "engines": {
             "vscode": "^1.0.0"
     },
